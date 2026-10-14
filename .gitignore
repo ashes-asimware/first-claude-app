@@ -219,4 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# JSON files (local config, not tracked)
 *.json
