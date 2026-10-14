@@ -221,3 +221,5 @@ __marimo__/
 
 # Local systems config (not tracked)
 systems.json
+systems.*.json
+*.json
