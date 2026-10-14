@@ -219,7 +219,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Local systems config (not tracked)
-systems.json
-systems.*.json
 *.json
